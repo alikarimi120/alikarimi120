@@ -29,7 +29,7 @@ Prior to MPL, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Departme
 |-----------|--------------------|
 | 📧 𝐓𝐡𝐞 𝐁𝐞𝐬𝐭 𝐖𝐚𝐲 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 👉 | alikarimi120@gmail.com |
 | 🌐 Personal Page 👉 | [alikarimi120.github.io](https://alikarimi120.github.io/) |
-|  [Linkedin](https://www.linkedin.com/in/alikarimi120/)  | [Skype](alikarimi120)  |
+|  [Linkedin](https://www.linkedin.com/in/alikarimi120/)  | [Skype](https://join.skype.com/invite/cl7zPhEqCAwf)  |
 
 ## More
 
