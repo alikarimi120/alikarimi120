@@ -6,15 +6,14 @@
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alikarimi120.alikarimi120)
 
+I work at the intersection of Machine Learning research and engineering towards to discovery of new boundaries.
+Below is a short story on my background in computer engineering education.
 
 ## Educational background
 
 I received an M.Sc. degree from the School of Electrical and Computer Engineering, University of Tehran, where I was a member of the 𝗠𝘂𝗹𝘁𝗶𝗺𝗲𝗱𝗶𝗮 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗟𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘆 (𝗠𝗣𝗟), advised by [Prof. Mohammad Ghanbari](https://scholar.google.com/citations?hl=en&user=WxwpS4wAAAAJ&view_op=list_works&sortby=pubdate). After starting my master's degree, I concentrated on Machine Learning research, specifically Deep Learning models
 
 Prior to MPL, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Department of Computer Engineering, [Bu-Ali Sina University](http://basu.ac.ir/en/home), in August 2018. I tried to use my bachelor's to build a solid bedrock for my future research. So in addition to taking many optional graduate-level courses on math and computer science. I spent a year as a Research Assistant at the Computer Networks Laboratory at the Bu-Ali Sina University where I completed my thesis on Evaluating and Improving the LoRa Protocol performance.
-
-
-
 
 ## My main research interests
 - Machine Learning, Deep Learning
