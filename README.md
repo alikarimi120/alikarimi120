@@ -42,6 +42,6 @@ Prior to MPL, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Departme
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-ahangari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikarimi120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=hamed-ahangari&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=alikarimi120&amp;show_icons=true" alt="GitHub Stats"></p>
