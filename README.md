@@ -1,4 +1,11 @@
-## Hello, My name is Ali!
+## Hello, My name is Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://www.linkedin.com/in/alikarimi120/">
+  <img align="left" alt="Hamed's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=alikarimi120.alikarimi120)
+
 
 I received an M.Sc. degree from the School of Electrical and Computer Engineering, University of Tehran, where I was a member of the 𝗠𝘂𝗹𝘁𝗶𝗺𝗲𝗱𝗶𝗮 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝗟𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘆 (𝗠𝗣𝗟), advised by [Prof. Mohammad Ghanbari](https://scholar.google.com/citations?hl=en&user=WxwpS4wAAAAJ&view_op=list_works&sortby=pubdate). After starting my master's degree, I concentrated on Machine Learning research, specifically Deep Learning models
 
