@@ -19,10 +19,8 @@ Throughout my academic and professional path, I have focused on research and dev
 | <img src="https://skillicons.dev/icons?i=linkedin" width="22" style="vertical-align:middle;"> &nbsp; **LinkedIn** | [alikarimi120](https://www.linkedin.com/in/alikarimi120/) |
 
 
-
-
 ## GitHub Stats
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120&layout=compact" alt="alikarimi120" />
-<img src="https://github-readme-stats.vercel.app/api?username=alikarimi120&show_icons=true&count_private=true&locale=en&layout=compact" alt="alikarimi120" style="display:block; margin:auto;">
-
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120&layout=compact&theme=default" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.verc.app/api?username=alikarimi120&show_icons=true&count_private=true&locale=en&layout=compact&theme=default" alt="GitHub Stats" />
+</div>
