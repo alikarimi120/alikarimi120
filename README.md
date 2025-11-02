@@ -23,12 +23,12 @@ During my master’s program, I focused on research in **Machine Learning**, **D
 ## GitHub Stats
 <div>
   <img width="48%" height="150vh" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikarimi120&show_icons=true&locale=en&layout=compact&theme=light" alt="alikarimi120" />
-  <img width="48%" height="150vh"  src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120&theme=light" alt="alikarimi120" />
+  <img width="48%" height="150vh"  src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120 alt="alikarimi120" />
 </div>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alikarimi120&show_icons=true&theme=light&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; ">
+<img src="https://github-readme-stats.vercel.app/api?username=alikarimi120&show_icons=true&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; ">
 </p>
 
