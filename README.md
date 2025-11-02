@@ -12,11 +12,12 @@ Throughout my academic and professional path, I have focused on research and dev
 
 ## 📡 Reach Out: 
 
-| Connect With Me | <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" width="16"/>&nbsp;Link  |
-|-----------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>&nbsp; Email  | alikarimi120@gmail.com |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> &nbsp; Personal Website | [alikarimi120.github.io](https://alikarimi120.github.io/) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> &nbsp; LinkedIn | [alikarimi120](https://www.linkedin.com/in/alikarimi120/) |
+| Contact | Link |
+|:--|:--|
+| <img src="https://skillicons.dev/icons?i=gmail" width="22" style="vertical-align:middle;"> &nbsp; **Email** | [alikarimi120@gmail.com](mailto:alikarimi120@gmail.com) |
+| <img src="https://skillicons.dev/icons?i=github" width="22" style="verti-align:middle;"> &nbsp; **Personal Website** | [alikarimi120.github.io](https://alikarimi120.github.io/) |
+| <img src="https://skillicons.dev/icons?i=linkedin" width="22" style="vertical-align:middle;"> &nbsp; **LinkedIn** | [alikarimi120](https://www.linkedin.com/in/alikarimi120/) |
+
 
 
 
