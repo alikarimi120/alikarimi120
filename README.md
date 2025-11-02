@@ -3,7 +3,7 @@
 
 I received my M.Sc. degree from the School of Electrical and Computer Engineering, University of Tehran, where I was a member of the **Multimedia Processing Laboratory (MPL)** under the supervision of [Prof. Mohammad Ghanbari](https://scholar.google.com/citations?hl=en&user=WxwpS4wAAAAJ&view_op=list_works&sortby=pubdate).  
 
-During my master’s program, I focused on research in **Machine Learning**, **Deep Learning**, and **Computer Vision**, with a particular emphasis on **medical image analysis** and **sports video understanding**. My studies involved developing deep neural models for segmentation and diagnostic imaging tasks, as well as designing computer‑vision pipelines for automated **football video analysis**, such as player tracking, camera calibration, and tactical behavior modeling.  
+Throughout my academic and professional path, I have focused on research and development in **Machine Learning**, **Deep Learning**, and **Computer Vision**, with particular interest in **medical image analysis** and **sports video understanding**. My work involves building deep neural models for medical image segmentation and diagnostic imaging, as well as designing computer-vision pipelines for automated football video analysis, including player tracking, camera calibration, and tactical behavior modeling.
 
 ## My main research interests
 - Machine Learning, especially Deep Learning
