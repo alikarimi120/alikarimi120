@@ -42,5 +42,14 @@ Prior to MPL, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Departme
 
 
 ## GitHub Stats
+<div>
+  <img width="48%" height="150vh" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikarimi120&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alikarimi120" />
+  <img width="48%" height="150vh"  src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120&theme=tokyonight" alt="alikarimi120" />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikarimi120)](https://github.com/alikarimi120/github-readme-stats)
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alikarimi120&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; ">
+</p>
+
