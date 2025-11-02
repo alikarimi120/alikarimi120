@@ -43,4 +43,4 @@ Prior to MPL, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Departme
 
 ## GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=alikarimi120&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
