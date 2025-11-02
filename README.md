@@ -1,4 +1,4 @@
-## Hello, My name is Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, My name is Ali Karimi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 I received my M.Sc. degree from the School of Electrical and Computer Engineering, University of Tehran, where I was a member of the **Multimedia Processing Laboratory (MPL)** under the supervision of [Prof. Mohammad Ghanbari](https://scholar.google.com/citations?hl=en&user=WxwpS4wAAAAJ&view_op=list_works&sortby=pubdate).  
