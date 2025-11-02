@@ -14,7 +14,7 @@ During my master’s program, I focused on research in **Machine Learning**, **D
 
 | Connect With Me | <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" width="16"/>&nbsp;Link  |
 |-----------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>&nbsp; **The Best Way to reach me** 👉 | alikarimi120@gmail.com |
+| <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>&nbsp; Email  | alikarimi120@gmail.com |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> &nbsp; Personal Website | [alikarimi120.github.io](https://alikarimi120.github.io/) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> &nbsp; LinkedIn | [alikarimi120](https://www.linkedin.com/in/alikarimi120/) |
 
