@@ -40,12 +40,7 @@ Prior to MPL, I finished my 𝐁𝐒𝐜 in Computer Engineering at the Departme
 
 
 
-## More
 
+## GitHub Stats
 
-| GitHub Stats  | Languages          |
-|-----------|--------------------|
-| <p><img src="https://github-readme-stats.vercel.app/api?username=alikarimi120&amp;show_icons=true" alt="GitHub Stats"></p> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikarimi120&layout=compact)](https://github.com/alikarimi120/github-readme-stats) |
-
-<!-- 
----
+(https://github-readme-stats.vercel.app/api?username=alikarimi120&hide=contribs,prs)
