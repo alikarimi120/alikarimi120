@@ -23,7 +23,6 @@ During my master’s program, I focused on research in **Machine Learning**, **D
 ## GitHub Stats
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikarimi120&show_icons=true&locale=en&layout=compact&theme=light" alt="alikarimi120" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120&layout=compact" alt="alikarimi120" />
 </div>
 <br>
 
