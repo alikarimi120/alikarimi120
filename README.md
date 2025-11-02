@@ -22,5 +22,5 @@ Throughout my academic and professional path, I have focused on research and dev
 ## GitHub Stats
 <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alikarimi120&theme=default&hide_border=false" />
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=alikarimi120&theme=default&show_icons=true&hide_border=false&count_private=true" />
+  <img  align="48%" src="https://github-readme-stats.vercel.app/api?username=alikarimi120&theme=default&show_icons=true&hide_border=false&count_private=true" />
 </div>
