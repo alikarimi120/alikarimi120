@@ -21,8 +21,8 @@ Throughout my academic and professional path, I have focused on research and dev
 
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alikarimi120&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikarimi120&layout=compact&theme=default" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
 </p>
