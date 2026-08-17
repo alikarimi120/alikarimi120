@@ -23,6 +23,6 @@ Throughout my academic and professional path, I have focused on research and dev
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/followers/alikarimi120?style=social" />
+  <img src="https://img.shields.io/github/stars/alikarimi120?style=social" />
 </p>
